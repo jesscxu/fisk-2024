@@ -17,7 +17,7 @@ title: CSCI 110
 tagline: Fisk University CSCI 110 Fall 2024
 description: Introduction to Computer Science
 author: Jessica Xu
-baseurl: '/fisk-2024' # the subpath of your site, e.g. /blog
+baseurl: '/' # the subpath of your site, e.g. /blog
 url: 'jesscxu.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
