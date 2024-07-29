@@ -2,7 +2,7 @@
 name: Jessica Xu (she/her)
 role: Instructor
 email: jessicaxu@fisk.edu
-photo: jessica.jpg
+photo: jessica.png
 ---
 
 Hi! My name is Jessica and I am so excited to be teaching this intro to CS course at Fisk this semester as a part of Google's GIR program :)
