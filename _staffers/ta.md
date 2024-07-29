@@ -1,9 +1,8 @@
 ---
-name: Really Evil Kevin
+name: NAME
 role: Teaching Assistant
 email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+photo: 
 ---
 
 I like teaching Computer Science!
