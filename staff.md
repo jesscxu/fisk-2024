@@ -19,16 +19,16 @@ For a quicker response on homework or project help, please ask on [EdStem](https
 {% assign num_student_teaching_assistants = student_teaching_assistants | size %}
 {% if num_student_teaching_assistants != 0 %}
 
-{% assign googler_teaching_assistants = site.staffers | where: 'role', 'Googler Teaching Assistant' %}
-{% assign num_googler_teaching_assistants = googler_teaching_assistants | size %}
-{% if num_googler_teaching_assistants != 0 %}
-
 ## Fisk Teaching Assistants
 
 {% for staffer in student_teaching_assistants %}
 {{ staffer }}
 {% endfor %}
 {% endif %}
+
+{% assign googler_teaching_assistants = site.staffers | where: 'role', 'Googler Teaching Assistant' %}
+{% assign num_googler_teaching_assistants = googler_teaching_assistants | size %}
+{% if num_googler_teaching_assistants != 0 %}
 
 ## Googler Teaching Assistants
 

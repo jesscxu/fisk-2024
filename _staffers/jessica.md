@@ -1,7 +1,7 @@
 ---
 name: Jessica Xu (she/her)
 role: Instructor
-email: jessicaxu@fisk.edu
+email: jxu@fisk.edu
 photo: jessica3.png
 ---
 
