@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Schedule
-description: The weekly event schedule.
+title: Course Materials
+description: Listing of course modules and topics.
 ---
 
-# Weekly Schedule
+# Course Materials
+This calendar outlines all topics of the course and has links to all lecture recordings, slides, notes, etc.
 
-{% for schedule in site.schedules %}
-{{ schedule }}
+{% for module in site.modules %}
+{{ module }}
 {% endfor %}
