@@ -4,7 +4,7 @@ title: Introduction to Java
 
 Aug 12
 : **Lecture**{: .label .label-yellow }Intro, Logistics, Computer Science
-  : [[slides](https://docs.google.com/presentation/d/1B92S4eL-lRrdG6HRFncXXyoyu2ikelQtBmGx9FQeTC4){:target="_blank"}\]
+  : \[[slides](www.google.com){:target="_blank"}\] \[[notes](https://www.google.com){:target="_blank"}\]
 
 Sep 28
 : [Java & Git](#)
