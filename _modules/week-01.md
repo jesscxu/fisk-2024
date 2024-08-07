@@ -3,25 +3,11 @@ title: Introduction to Java
 ---
 
 Aug 12
-: **Lecture**{: .label .label-yellow }Intro, Logistics, Computer Science
+: **Lecture**{: .label .label-blue }Intro, Logistics, Computer Science
   : \[[slides](www.google.com){:target="_blank"}\] \[[notes](https://www.google.com){:target="_blank"}\]
+: **HW**{: .label .label-yellow }[Data Types](https://edstem.org/us/courses/61483/lessons/113270){:target="_blank"}
+  : Due: Aug 21
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
-
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
-
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+Aug 13
+: **Lab**{: .label .label-purple }[Lab 0](https://edstem.org/us/courses/61483/lessons/113267){:target="_blank"}
+  : Due: Aug 15
