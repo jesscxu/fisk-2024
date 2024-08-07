@@ -10,4 +10,4 @@ Aug 12
 
 Aug 13
 : **Lab**{: .label .label-purple }[Lab 0](https://edstem.org/us/courses/61483/lessons/113267){:target="_blank"}
-  : Due: Aug 15
+  : Due: Aug 13
