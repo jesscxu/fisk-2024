@@ -1,5 +1,5 @@
 ---
-title: Introduction to Java
+title: Week 1
 ---
 
 Aug 12
