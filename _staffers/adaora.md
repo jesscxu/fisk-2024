@@ -1,6 +1,6 @@
 ---
 name: Adaora Igwe (she/her)
-role: Student Teaching Assisstant
+role: Student Teaching Assistant
 email: AMIgwe16@my.fisk.edu
 photo: adaora.jpeg
 ---
