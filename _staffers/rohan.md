@@ -1,6 +1,6 @@
 ---
 name: Rohan Ray Yadav (he/him)
-role: Student Teaching Assisstant
+role: Student Teaching Assistant
 email: rryadav15@my.fisk.edu
 photo: rohan.jpeg
 ---

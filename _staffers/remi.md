@@ -1,6 +1,6 @@
 ---
 name: Remi Ore (she/her)
-role: Student Teaching Assisstant
+role: Student Teaching Assistant
 email: rvore31@my.fisk.edu
 photo: remi.jpeg
 ---

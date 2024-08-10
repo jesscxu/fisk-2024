@@ -1,6 +1,6 @@
 ---
 name: Benjamin Bamisile (he/him) 
-role: Student Teaching Assisstant
+role: Student Teaching Assistant
 email: bobamisile21@my.fisk.edu
 photo: benjamin.jpg
 ---
