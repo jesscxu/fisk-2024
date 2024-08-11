@@ -52,6 +52,7 @@ As a course, we commit to making sure no student fails the class due to lack of 
 
 ### Evaluation
 Your final grade will be calculated based on your exams, homeworks, projects, and quizzes. See the section below for a detailed breakdown. Depending on the difficulty of the material, a curve may be applied to increase grades at the end of the semester. A curve will never be used to decrease grades. Final grades will be assigned according to:
+
 | Grade | Range
 |:-------|:------|
 | A+ | 97 <= score |
