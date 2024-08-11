@@ -21,7 +21,7 @@ seo:
 
 CSCI110 is an introductory class designed for students with no formal exposure to computer science or programming. The goal is to provide a gentle but thorough introduction to computer science that will prepare students to either take further computer science courses, or use computer science in their field of study.
 
-See the [Syllabus page](syllabus.md) for more details on course policies and the [Calendar page](calendar.md) page for office hours, due dates, and class times. All office hours for instructor and Fisk TA's are in the library, 3rd floor, and all Google TA office hours are online (use link in calendar to sign up).
+See the [Syllabus page](syllabus.md) for more details on course policies and the [Calendar page](calendar.md) page for office hours, lab times, class times, etc. All office hours for instructor and Fisk TA's will be in the library on the 3rd floor.
 
 ## Course Materials
 {% for module in site.modules %}
