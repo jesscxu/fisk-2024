@@ -109,3 +109,9 @@ If I ask you how your code works and you do not know, it will be evident that yo
 
 ## Resources
 This course website, [csci110.page](http://www.csci110.page), will be your one-stop resource for the syllabus, schedule, lecture videos, and assignment links. Additionally, we have [EdStem](https://edstem.org/us/courses/61483) for all assignments and asking questions.
+
+## Learning Outcomes
+- Decomposition: Students will be able to break a complex problem into subsets of smaller manageable problems and demonstrate proficiency and the ability to use critical thinking skills in using basic computer and online applications.
+- Pattern Recognition: Students will be able to find patterns within data or methods to solve the problem.
+- Abstraction: Students will be able to focus on key details and ignore irrelevant information.
+- Algorithm: Students will be able to take steps to solve each of the smaller, decomposed problems.
