@@ -32,16 +32,16 @@ By the end of the course, students will learn
 Lectures, labs, and office hours are the main ways in which you will interact with your professor and TAs. You can see the weekly schedule of course meetings on the [course schedule page](schedule.md). Instructor and Fisk TA office hours will be held on the Library 3rd floor.
 
 ### Lecture
-Lecture will be held in Library 317 on Mondays, Wednesdays, and Fridays. Lecture will be focused on practicing concepts by doing problems, and you will be able to ask your professor and TA for help. There are three sections and each student must attend one of them:
-- MWF 9AM-9:55AM
-- MWF 11AM-11:55AM
-- MWF 2PM-2:55PM
+Lecture will be held in Talley-Brady 212 or Library 318 (depending on your section) on Mondays, Wednesdays, and Fridays. Lecture will be focused on practicing concepts by doing problems, and you will be able to ask your professor and TA for help. There are three sections and each student must attend one of them:
+- MWF 10AM-10:50AM
+- MWF 11AM-11:50AM
+- MWF 2PM-2:50PM
 
 ### Lab
 Labs will be held in Library 317 on Tuesdays. There are three sections for labs and each student must attend one of them:
-- T 9AM-9:55AM
-- T 11AM-11:55AM
-- T 1PM-1:55PM
+- T 9:30AM-10:50AM
+- T 11AM-12:20AM
+- T 1PM-2:20PM
 
 ### Office Hours
 We will hold in-person office hours at a wide variety of times.
@@ -74,41 +74,31 @@ Your overall grade will be calculated using the following relative weights:
 
 | Assignment Type | Weight in Overall Grade System 1 | Weight in Overall Grade System 2
 |:-------------|:------------------|:------------------|
-| Coding Homework | 3% | 3% |
-| Video Homework | 2% | 2% |
-| Labs | 3% | 3% |
-| Quizzes | 3% | 3% |
-| Project 1 | 14% | 25% |
-| Project 2 | 20% | 30% |
-| Midterm 1 | 13% | 6% |
-| Midterm 2 | 17% | 11% | 
-| Final Exam | 25% | 17% | 
+| Homeworks | 7% | 13% |
+| Participation | 5% | 5% |
+| Quizzes | 5% | 5% |
+| Project 1 | 12% | 18% |
+| Project 2 | 17% | 23% |
+| Midterm 1 | 13% | 7% |
+| Midterm 2 | 18% | 12% | 
+| Final Exam | 23% | 17% | 
 
 ### Assignments
 These details are subject to change during the semester, however the current plan of record is the following:
 
-- 30 Video Assignments - 3x per week, due one day before each class (Sun, Tues, Thurs)
-- 10 Coding Assignments - 1x per week, due Monday
+- 10 Homeworks - 1x per week, due Wednesday
 - 10 Quizzes - 1x per week on Friday, first 15 minutes of class
 - 2 Projects - spread throughout the semester, due Friday
 
 All assignments will be due at 11:59pm on their respective days
 
 ### Quizzes
-At the beginning of class on every Wednesday, there will be a 15-minute quiz on the material from the previous week (previous Wed, Fri, and Mon). These will be done on EdStem, so bring your laptop to class.
-
-For quizzes where you score <90%, you will have a chance to retake them. In order to do so, send me an email by the end of Friday to ask for a quiz retake. In the email, include for each question:
-- what the original answer was and why / how it is incorrect
-- what the correct answer is and why / how it is correct
-
-In order to be granted a retake, all of your answers must be correct. If they are not correct, I will go over them with you until they are correct - but no retakes until they are correct.
-
-Retakes will happen 15 minutes _before_ class on Monday (ie if your class usually starts at 9AM, show up a few minutes before 8:50AM to do the retake). Let the instructor know if this time doesn't work for you and we'll find another time.
+At the beginning of class on every Friday, there will be a 15-minute quiz on the material from the previous week. These will be done on EdStem, so bring your laptop to class.
 
 ### Exams
 This course will have 2 midterms and 1 final exam, spaced evenly across the semester. 
-- Exam 1 is on Wednesday, September 15th
-- Exam 2 is on Wednesday, Nov 1st 
+- Exam 1 is on Wednesday, September 18th
+- Exam 2 is on Wednesday, October 23rd 
 - Exam 3 is the final exam
 
 ### Cheating
@@ -117,5 +107,4 @@ For all assignments in the course, you may discuss approaches to solving a probl
 If I ask you how your code works and you do not know, it will be evident that you have copied it. Don't take the risk. Despite this explicit warning, each year, a few students still cheat and are caught. I do not enjoy catching and penalizing students for plagiarism, but it’s necessary for maintaining a fair classroom. The course staff will work tirelessly to provide enough support for any student to get help and make it through the class. In exchange, we ask you to uphold academic integrity and not to plagiarize code or ideas. If you are struggling because there’s not enough time or the concepts are difficult, email the professor. Extensions are available if you let me know what’s going on.
 
 ## Resources
-This course website, [csci110.page](http://www.csci110.page), will be your one-stop resource for the syllabus, schedule, lecture videos, and assignment links. Additionally, we have:
-- [EdStem](https://edstem.org/us/courses/41289) for all assignments and asking questions
+This course website, [csci110.page](http://www.csci110.page), will be your one-stop resource for the syllabus, schedule, lecture videos, and assignment links. Additionally, we have [EdStem](https://edstem.org/us/courses/61483) for all assignments and asking questions.

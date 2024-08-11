@@ -6,7 +6,7 @@ description: A listing of all the course staff members.
 
 # Staff
 
-For a quicker response on homework or project help, please ask on [EdStem](https://edstem.org/us/courses/41289) rather than emailing staff members individually. On EdStem, all staff members (and students!) can see your question and answer it.
+For a quicker response on homework or project help, please ask on [EdStem](https://edstem.org/us/courses/61483) rather than emailing staff members individually. On EdStem, all staff members (and students!) can see your question and answer it.
 
 ## Instructor
 
