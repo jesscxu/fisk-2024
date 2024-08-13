@@ -16,7 +16,7 @@ Aug 13
 
 Aug 14
 : **Lecture**{: .label .label-yellow }Data Types
-  : \[[slides](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\]
+  : \[[slides](https://docs.google.com/presentation/d/14Wbv-amX7FOAowk8iswAgG6e02B1pKLyGubxB26nOjM/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\]
 
 Aug 15
 : **Lecture**{: .label .label-yellow }Operators & Expressions
