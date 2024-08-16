@@ -20,4 +20,4 @@ Aug 14
 
 Aug 15
 : **Lecture**{: .label .label-yellow }Operators & Expressions
-  : \[[slides](https://docs.google.com/presentation/d/1z37eQGPpcKh9yN03o7SvmXn0W7rNIWYZ2aVoI1zxERg/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/11ZsSwLunwWnsW7-f3jCbN4V1u7TJQGGyacWBGgf9FHY/edit?usp=sharing){:target="_blank"}\] [[colab](https://colab.research.google.com/drive/1r6NPOv4q5icOH1jPnrK-8rXWSEpsAeJU?usp=sharing){:target="_blank"}\]
+  : \[[slides](https://docs.google.com/presentation/d/1z37eQGPpcKh9yN03o7SvmXn0W7rNIWYZ2aVoI1zxERg/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/11ZsSwLunwWnsW7-f3jCbN4V1u7TJQGGyacWBGgf9FHY/edit?usp=sharing){:target="_blank"}\] [[colab](https://colab.research.google.com/drive/1r6NPOv4q5icOH1jPnrK-8rXWSEpsAeJU?usp=sharing){:target="_blank"}\] \[[recording](https://www.youtube.com/watch?v=q3GvJQYS8YY){:target="_blank"}\]
