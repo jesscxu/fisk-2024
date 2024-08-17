@@ -7,9 +7,9 @@ Aug 19
   :  \[[slides](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\] \[[colab](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\] \[[recording](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\]
 
 Aug 20
-: **Lab**{: .label .label-green }[Lab 1 - Variables](https://edstem.org/us/courses/61483/lessons/113267){:target="_blank"}
+: **Lab**{: .label .label-green }[Lab 1 - Variables](https://edstem.org/us/courses/61483/lessons/113384){:target="_blank"}
   : Due: Aug 20
-: **HW**{: .label .label-purple }[HW 1 - Data Types, Expressions, Variables](https://edstem.org/us/courses/61483/lessons/113270){:target="_blank"}
+: **HW**{: .label .label-purple }[HW 1 - Data Types, Expressions, Variables](https://edstem.org/us/courses/61483/lessons/113377){:target="_blank"}
   : Due: Aug 28
 
 Aug 21
