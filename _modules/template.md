@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Week 2
 ---
 
@@ -19,4 +19,4 @@ Aug 21
 Aug 23
 : **Lecture**{: .label .label-yellow }Input/Output
   : \[[slides](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\] \[[colab](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\] \[[recording](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\]
-: **Quiz**{: .label .label-blue }Quiz 1 - Data Types, Operators, Expressions
+: **Quiz**{: .label .label-blue }Quiz 1 - Data Types, Operators, Expressions -->
