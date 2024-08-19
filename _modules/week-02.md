@@ -4,7 +4,7 @@ title: Week 2
 
 Aug 19
 : **Lecture**{: .label .label-yellow }Variables
-  :  \[[slides](https://docs.google.com/presentation/d/1wwqJJ70nJ6n_Jv_Gh7rVSHor0_g8eFz-xJkGLC95uOY/edit#slide=id.g2f3cc6fb0f3_0_347){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1bmY-GUnuf9K2fbDmM68LsNaU43GJmiNq9TNaBJkxQAA/edit?usp=sharing){:target="_blank"}\] \[[recording](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\]
+  :  \[[slides](https://docs.google.com/presentation/d/1wwqJJ70nJ6n_Jv_Gh7rVSHor0_g8eFz-xJkGLC95uOY/edit#slide=id.g2f3cc6fb0f3_0_347){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1bmY-GUnuf9K2fbDmM68LsNaU43GJmiNq9TNaBJkxQAA/edit?usp=sharing){:target="_blank"}\] \[[recording](https://www.youtube.com/watch?v=FUvrfqzPyyo){:target="_blank"}\]
 
 Aug 20
 : **Lab**{: .label .label-green }[Lab 1 - Variables](https://edstem.org/us/courses/61483/lessons/113384){:target="_blank"}
