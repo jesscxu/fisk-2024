@@ -23,6 +23,10 @@ CSCI110 is an introductory class designed for students with no formal exposure t
 
 See the [Syllabus page](syllabus.md) for more details on course policies and the [Calendar page](calendar.md) page for office hours, lab times, class times, etc. All office hours for instructor and Fisk TA's will be in the library on the 3rd floor.
 
+## Feedback Form
+
+When instructed, please fill out this [form](https://forms.gle/SALs3jqjnbycWULv7) for attendance purposes.
+
 ## Course Materials
 {% for module in site.modules %}
 {{ module }}
