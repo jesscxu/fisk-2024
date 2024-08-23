@@ -18,5 +18,5 @@ Aug 21
 
 Aug 23
 : **Lecture**{: .label .label-yellow }Input/Output
-  : \[[slides](https://docs.google.com/presentation/d/1Q79hzR35WNKLQC2kKKYPv4R5u7CeRqP0BR5Tdb-8UkA/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/15XbQj7HRXobjhTAgCjts7J6fbUgYAXjeGUA6UilnQWE/edit?usp=sharing){:target="_blank"}\] \[[colab](https://colab.research.google.com/drive/1xJsqk-5DVx5v-oWN4J9lG2HY6sW-4hcr?usp=sharing){:target="_blank"}\] \[[recording](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\]
+  : \[[slides](https://docs.google.com/presentation/d/1Q79hzR35WNKLQC2kKKYPv4R5u7CeRqP0BR5Tdb-8UkA/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/15XbQj7HRXobjhTAgCjts7J6fbUgYAXjeGUA6UilnQWE/edit?usp=sharing){:target="_blank"}\] \[[colab](https://colab.research.google.com/drive/1xJsqk-5DVx5v-oWN4J9lG2HY6sW-4hcr?usp=sharing){:target="_blank"}\] \[[recording](https://www.youtube.com/watch?v=Bd7S3y9hwHs){:target="_blank"}\]
 : **Quiz**{: .label .label-blue }Quiz 1 - Data Types, Operators, Expressions
