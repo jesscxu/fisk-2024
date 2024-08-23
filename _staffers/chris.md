@@ -1,7 +1,7 @@
 ---
 name: Chris Fredrickson (he/him)
 role: Googler Teaching Assistant
-email: cfredric@google.com
+email: https://calendar.app.google/DJSBvygQZuhofYpr9
 photo: chris.jpg
 ---
 
