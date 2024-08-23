@@ -2,6 +2,7 @@
 name: Aman Singh (he/him)
 role: Googler Teaching Assistant
 email: amansg@google.com
+OH: https://calendar.app.google/bTKohzsQrJdXoZsZ6
 photo: aman.jpg
 ---
 
