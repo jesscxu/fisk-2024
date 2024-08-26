@@ -1,5 +1,5 @@
 ---
-title: Week 3
+title: Week 3 
 ---
 
 Aug 26
