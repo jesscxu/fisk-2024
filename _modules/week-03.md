@@ -16,7 +16,7 @@ Aug 27
 
 Aug 28
 : **Lecture**{: .label .label-yellow }While Loops
-  :  \[[slides](https://docs.google.com/presentation/d/1xPbLzm185NuaHg_U2cHus0gehJ-HxOOAET_a9a2yK0E/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1HnV-Kx0mgnZT8oPYguDgGWOw95fbrHfxH-Q2YNSawn8/edit?usp=sharing){:target="_blank"}\] \[[colab](https://colab.research.google.com/drive/1MlH6Ok-3yc9Qv2X6fPx71hXiWnCRcsGB?usp=sharing){:target="_blank"}\] \[[WORDLE](https://colab.research.google.com/drive/1LsFbdIBOgqjD2aXJy7ThC2cj-1ovnSLr?usp=sharing){:target="_blank"}\] \[[recording](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\]
+  :  \[[slides](https://docs.google.com/presentation/d/1xPbLzm185NuaHg_U2cHus0gehJ-HxOOAET_a9a2yK0E/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1HnV-Kx0mgnZT8oPYguDgGWOw95fbrHfxH-Q2YNSawn8/edit?usp=sharing){:target="_blank"}\] \[[colab](https://colab.research.google.com/drive/1MlH6Ok-3yc9Qv2X6fPx71hXiWnCRcsGB?usp=sharing){:target="_blank"}\] \[[WORDLE](https://colab.research.google.com/drive/1LsFbdIBOgqjD2aXJy7ThC2cj-1ovnSLr?usp=sharing){:target="_blank"}\] \[[recording](https://youtu.be/2xcLNyXqdhw){:target="_blank"}\]
 
 Aug 30
 : **Lecture**{: .label .label-yellow }Strings
