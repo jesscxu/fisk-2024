@@ -4,7 +4,8 @@ title: Week 4
 
 Sept 2
 : **Lecture**{: .label .label-yellow } NONE - Labor Day!
-  : Have fun!
+  :
+
 Sept 3
 : **Lab**{: .label .label-green }[Lab 3 - While Loops, Strings](https://edstem.org/us/courses/61483/lessons/115404){:target="_blank"}
   : Due: Sept 3
