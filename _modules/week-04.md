@@ -8,7 +8,7 @@ Sept 2
 Sept 3
 : **Lab**{: .label .label-green }[Lab 3 - While Loops, Strings](https://edstem.org/us/courses/61483/lessons/115404){:target="_blank"}
   : Due: Sept 3
-: **HW**{: .label .label-purple }[HW 3 - Logical Operators, While Loops, Strings](https://edstem.org/us/courses/61483/lessons/115341){:target="_blank"}
+: **HW**{: .label .label-purple }[HW 3 - While Loops, Strings](https://edstem.org/us/courses/61483/lessons/115341){:target="_blank"}
   : Due: Sept 11
 
 Sept 4
