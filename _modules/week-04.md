@@ -13,7 +13,7 @@ Sept 3
 
 Sept 4
 : **Lecture**{: .label .label-yellow } Review: While Loops & Strings
-  :  \[[slides](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\] \[[colab](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\] \[[WORDLE](https://colab.research.google.com/drive/1LsFbdIBOgqjD2aXJy7ThC2cj-1ovnSLr?usp=sharing){:target="_blank"}\] \[[recording](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\]
+  :  \[[slides](https://docs.google.com/presentation/d/1bKBPqWBG7GTXeiDnds7mgb4eEGsOq2xULHylkRgRCtk/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\] \[[WORDLE](https://colab.research.google.com/drive/1LsFbdIBOgqjD2aXJy7ThC2cj-1ovnSLr?usp=sharing){:target="_blank"}\] \[[recording](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\]
 
 Sept 6
 : **Lecture**{: .label .label-yellow }Functions (Modules & Imports)
