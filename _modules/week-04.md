@@ -10,6 +10,8 @@ Sept 3
   : Due: Sept 3
 : **HW**{: .label .label-purple }[HW 3 - While Loops, Strings](https://edstem.org/us/courses/61483/lessons/115341){:target="_blank"}
   : Due: Sept 11
+: **Project 1**{: .label .label-purple }[Blackjack (pt. 2)](https://edstem.org/us/courses/61483/lessons/116426){:target="_blank"}
+  : Due: Sept 9
 
 Sept 4
 : **Lecture**{: .label .label-yellow } Review: While Loops & Strings
