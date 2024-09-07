@@ -10,9 +10,9 @@ Sept 9
 
 Sept 10
 : **Lab**{: .label .label-green }[Lab 4 - Functions](https://edstem.org/us/courses/61483/lessons/113384){:target="_blank"}
-  : Due: Sept 20
+  : Due: Sept 10
 : **HW**{: .label .label-purple }[HW 4 - Functions](https://edstem.org/us/courses/61483/lessons/113377){:target="_blank"}
-  : Due: Sept 28
+  : Due: Sept 17
 
 Sept 11
 : **Lecture**{: .label .label-yellow }Functions (Testing)
