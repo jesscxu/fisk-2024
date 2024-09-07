@@ -17,5 +17,5 @@ Sept 4
 
 Sept 6
 : **Lecture**{: .label .label-yellow }Functions (Modules & Imports)
-  : \[[slides](https://docs.google.com/presentation/d/1DlMqaVIrF6rhZWQ_7ku0jgI41um0iLqre7kga1y-WvU/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/18HnlTs3VeyICexorlJMgZVO__dhFxSOp5oIUXxYKiZI/edit?usp=sharing){:target="_blank"}\] \[[colab](https://colab.research.google.com/drive/1y3_jINRk9IgtmwRWEgvdceeT1nJ3LnXJ?usp=sharing){:target="_blank"}\] \[[WORDLE](https://colab.research.google.com/drive/1LsFbdIBOgqjD2aXJy7ThC2cj-1ovnSLr?usp=sharing){:target="_blank"}\] \[[recording](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\]
+  : \[[slides](https://docs.google.com/presentation/d/1DlMqaVIrF6rhZWQ_7ku0jgI41um0iLqre7kga1y-WvU/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/18HnlTs3VeyICexorlJMgZVO__dhFxSOp5oIUXxYKiZI/edit?usp=sharing){:target="_blank"}\] \[[colab](https://colab.research.google.com/drive/1y3_jINRk9IgtmwRWEgvdceeT1nJ3LnXJ?usp=sharing){:target="_blank"}\] \[[WORDLE](https://colab.research.google.com/drive/1LsFbdIBOgqjD2aXJy7ThC2cj-1ovnSLr?usp=sharing){:target="_blank"}\] \[[recording](https://youtu.be/w0bhtd3mn40){:target="_blank"}\]
 : **Quiz**{: .label .label-blue }Quiz 3 - Logical Operators, While Loops, Strings
