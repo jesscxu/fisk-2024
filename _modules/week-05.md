@@ -20,5 +20,5 @@ Sept 11
 
 Sept 13
 : **Lecture**{: .label .label-yellow }Debugging
-  :  \[[slides](https://docs.google.com/presentation/d/1IGfYeLpMFnBYOr587I3TCSy5OtWs4gcUSlF-0YbWyP4/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1wlX6ybT1OVMZMHDCi6OT0zZDzRzPST8OA1V6CgVhj8M/edit?usp=sharing){:target="_blank"}\] \[[WORDLE](https://colab.research.google.com/drive/1LsFbdIBOgqjD2aXJy7ThC2cj-1ovnSLr?usp=sharing){:target="_blank"}\] \[[recording](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\]
+  :  \[[slides](https://docs.google.com/presentation/d/1IGfYeLpMFnBYOr587I3TCSy5OtWs4gcUSlF-0YbWyP4/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1wlX6ybT1OVMZMHDCi6OT0zZDzRzPST8OA1V6CgVhj8M/edit?usp=sharing){:target="_blank"}\] \[[WORDLE](https://colab.research.google.com/drive/1LsFbdIBOgqjD2aXJy7ThC2cj-1ovnSLr?usp=sharing){:target="_blank"}\] \[[recording](https://youtu.be/grLMrJhRWQ8){:target="_blank"}\]
 : **Quiz**{: .label .label-blue }Quiz 4 - Functions
