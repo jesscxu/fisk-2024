@@ -9,6 +9,7 @@ Sept 16
 Sept 17
 : **Lab**{: .label .label-green }[PRACTICE] Midterm 1 Exam
   :  \[[SOLUTION](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\]
+  
 Sept 18
 : **Lecture**{: .label .label-yellow }Midterm 1 Exam
   :  \[[SOLUTION](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\]
