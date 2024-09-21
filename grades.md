@@ -28,7 +28,7 @@ description: How you can check your current grades in the class!
 		studentIds.forEach((id) => {
 			grades[id] = {};
 
-			assignmentsScores.forEach((assignmentType) => {
+			assignments.forEach((assignmentType) => {
 				grades[id][assignmentType] = assignmentScores[assignmentType][id];
 			});
 		});
