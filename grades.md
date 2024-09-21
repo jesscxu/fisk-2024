@@ -13,17 +13,6 @@ description: How you can check your current grades in the class!
 
 <pre><code class="json" id="output"></code></pre>
 <script>
-	function jsonToHtml(obj) {
-		if typeof obj !== 'object':
-			return obj
-		else:
-			let html = "";
-			for (let key in obj) {
-				html += "<div><span class\"json-key\"><span class=\"math-inline\">\{" + key + "\:</span\> <span class\=\"json\-value\"\></span>\{" + jsonToHtml(obj[key]) + "\}</span></div>";
-			}
-			return html;
-	}
-
 	function displayValue() {
 		const inputValue = document.getElementById("myInput").value;
 		document.getElementById("output").textContent = inputValue;
@@ -42,7 +31,6 @@ description: How you can check your current grades in the class!
 		};
 
 		console.log(grades[inputValue]);
-		document.getElementById("output").textContent = JSON.stringify(grades[inputValue]); 
-		document.getElementById("output").innerHTML = jsonToHtml(grades[inputValue]); 
+		document.getElementById("output").textContent = JSON.stringify(grades[inputValue], null, 4);
   	}
 </script>
