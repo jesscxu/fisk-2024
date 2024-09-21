@@ -34,7 +34,7 @@ description: How you can check your current grades in the class!
 	};
 
 	ReactDOM.render(
-      <ReactJson src={grades[inputValue]}/>,
+      <ReactJson src={grades[inputValue]} />,
       document.getElementById('output')
     );
 
