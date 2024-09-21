@@ -29,9 +29,8 @@ description: How you can check your current grades in the class!
 		}
 	};
 
-
     console.log(grades[inputValue]);
-    document.getElementById("output").textContent = grades[inputValue]; 
+    document.getElementById("output").textContent = JSON.stringify(grades[inputValue]); 
   }
 </script>
 
