@@ -11,10 +11,7 @@ description: How you can check your current grades in the class!
 <input type="text" id="myInput">
 <button onclick="displayValue()">Get my GRADES!</button>
 
-<script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
-<script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>   
-<script src="https://unpkg.com/react-json-view@1.21.3/dist/main.js"></script>   
- 
+<pre><code class="json" id="output"></code></pre>
 <script>
   function displayValue() {
     const inputValue = document.getElementById("myInput").value;
@@ -33,14 +30,7 @@ description: How you can check your current grades in the class!
 		}
 	};
 
-	ReactDOM.render(
-      <ReactJson src={grades[inputValue]} />,
-      document.getElementById('output')
-    );
-
     console.log(grades[inputValue]);
     document.getElementById("output").textContent = JSON.stringify(grades[inputValue]); 
   }
 </script>
-
-<p id="output"></p>
