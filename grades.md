@@ -27,6 +27,9 @@ description: How you can check your current grades in the class!
     		}
     	}
     }
+    print(inputValue)
+    print(grades)
+    print(grades[inputValue])
     document.getElementById("output").textContent = grades[inputValue]; 
   }
 </script>
