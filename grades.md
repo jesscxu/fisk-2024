@@ -16,7 +16,7 @@ description: How you can check your current grades in the class!
     let inputValue = document.getElementById("myInput").value;
 
     const grades = {
-    	123: {
+    	'123': {
     		'HWs': {
 	      		'HW0': '100%',
 	    		'HW1': '50%',  			
