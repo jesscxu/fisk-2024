@@ -16,7 +16,7 @@ description: How you can check your current grades in the class!
 	function jsonToHtml(obj) {
 		let html = "";
 		for (let key in obj) {
-			html += "<div><span class\"json-key\"><span class=\"math-inline\">\{key\}\:</span\> <span class\=\"json\-value\"\></span>{obj[key]}</span></div>";
+			html += "<div><span class\"json-key\"><span class=\"math-inline\">\{" + key + "\}\:</span\> <span class\=\"json\-value\"\></span>\{" + obj[key] + "\}</span></div>";
 		}
 		return html;
 	}
