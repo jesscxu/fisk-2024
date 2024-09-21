@@ -6,15 +6,16 @@ description: How you can check your current grades in the class!
 
 ## Grades
 
+<br>
+<p>Type in your student ID:</p>
 <input type="text" id="myInput">
-<button onclick="displayValue()">Display Value</button>
+<button onclick="displayValue()">Get my GRADES!</button>
 
 <script>
   function displayValue() {
     let inputValue = document.getElementById("myInput").value;
-    alert(inputValue);
+    document.getElementById("output").textContent = inputValue; 
   }
 </script>
 
-
-
+<p id="output"></p>
