@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Check my Grade!
+title: Check your Grades!
 description: How you can check your current grades in the class!
 ---
 
