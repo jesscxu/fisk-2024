@@ -23,7 +23,7 @@ description: How you can check your current grades in the class!
 		const student_ids = Object.keys(exams);
 		student_ids.forEach((id) => {
 			[exams].forEach((assignment_type) => {
-				grades[id].exams = assignment_type[id];
+				grades[id]['Exams'] = assignment_type[id];
 			});
 		});
 
