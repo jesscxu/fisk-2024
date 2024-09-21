@@ -14,7 +14,7 @@ description: How you can check your current grades in the class!
 <script>
   function displayValue() {
     let inputValue = document.getElementById("myInput").value;
-    document.getElementById("output").textContent = inputValue; 
+    document.getElementById("output").textContent = inputValue;
 
     // const grades = {
     // 	'123': {
