@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Check your Grades!
+title: Grades
 description: How you can check your current grades in the class!
 ---
 
-## Grades
+## Check your Grades!
 
 <br>
 <p>Type in your student ID:</p>
