@@ -12,7 +12,7 @@ Sept 17
 
 Sept 18
 : **EXAM**{: .label .label-yellow }Midterm 1 Exam
-  :  \[[SOLUTION](https://drive.google.com/file/d/1V3V1x7RY-TgWvmV8LoMct58mxU90RG9q/view?usp=sharing){:target="_blank"}\]
+  :  \[[SOLUTION](https://drive.google.com/file/d/1V3V1x7RY-TgWvmV8LoMct58mxU90RG9q/view?usp=sharing){:target="_blank"}\] \[[CORRECTIONS](https://docs.google.com/document/d/1SsEoP1TH-XNMGbkjxLkKFk0IsH4DBz_UUtSTr241Zww/edit?usp=sharing){:target="_blank"}\]
 
 Sept 20
 : **Lecture**{: .label .label-yellow }For Loops
