@@ -14,7 +14,7 @@ Sept 3
   : Due: Sept 11
 
 Sept 4
-: **Lecture**{: .label .label-yellow } Review: While Loops & Strings
+: **Lecture**{: .label .label-yellow } Review (While Loops & Strings)
   :  \[[slides](https://docs.google.com/presentation/d/1bKBPqWBG7GTXeiDnds7mgb4eEGsOq2xULHylkRgRCtk/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1_bKxLSDo4hIycIf-XrGGguRnoNXNP2t0SX0W5uj-p4A/edit?usp=sharing){:target="_blank"}\] \[[WORDLE](https://colab.research.google.com/drive/1LsFbdIBOgqjD2aXJy7ThC2cj-1ovnSLr?usp=sharing){:target="_blank"}\] \[[recording](https://youtu.be/Z0oi8JCgNqo){:target="_blank"}\]
 
 Sept 6
