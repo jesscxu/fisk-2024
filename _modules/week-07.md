@@ -19,4 +19,4 @@ Sept 25
   :  \[[slides](https://docs.google.com/presentation/d/1ADFvMhv-1mg_kB3DBFElicW0W61AEQdrai0W2TGjdtI/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\] \[[Tic Tac Toe](https://colab.research.google.com/drive/1BF4dHcgRLkviXv5G8mgsp3pzNxCCmjyF?usp=sharing){:target="_blank"}\] \[[colab](https://colab.research.google.com/drive/110xRj_JXz4f36GdwULtM7QScoNWWqYNu?usp=sharing){:target="_blank"}\] \[[recording](https://youtu.be/ZDw3_xTKWb8){:target="_blank"}\]
 
 Sept 27
-: **Lecture**{: .label .label-yellow } NO CLASS - Canceled due to bad weather :(
+: **Lecture**{: .label .label-yellow } NO CLASS - CANCELED
