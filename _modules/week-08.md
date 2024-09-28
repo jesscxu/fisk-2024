@@ -1,5 +1,5 @@
 ---
-title: Week 2
+title: Week 8
 ---
 
 Sept 30
@@ -17,9 +17,8 @@ Oct 1
 
 Oct 2
 : **Lecture**{: .label .label-yellow }2D Lists
-  :  \[[slides](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\]\[[Tic Tac Toe](https://colab.research.google.com/drive/1BF4dHcgRLkviXv5G8mgsp3pzNxCCmjyF?usp=sharing){:target="_blank"}\] \[[colab](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\] \[[recording](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\]
+  :  \[[slides](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\] \[[Tic Tac Toe](https://colab.research.google.com/drive/1BF4dHcgRLkviXv5G8mgsp3pzNxCCmjyF?usp=sharing){:target="_blank"}\] \[[colab](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\] \[[recording](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\]
 
 Oct 4
 : **Lecture**{: .label .label-yellow }2D Lists (Nested Loops and Images)
-  : \[[slides](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\]\[[Tic Tac Toe](https://colab.research.google.com/drive/1BF4dHcgRLkviXv5G8mgsp3pzNxCCmjyF?usp=sharing){:target="_blank"}\] \[[colab](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\] \[[recording](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\]
-: **Quiz**{: .label .label-blue }Quiz 6 - Mutable Lists, 2D Lists
+  : \[[slides](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\] \[[Tic Tac Toe](https://colab.research.google.com/drive/1BF4dHcgRLkviXv5G8mgsp3pzNxCCmjyF?usp=sharing){:target="_blank"}\] \[[colab](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\] \[[recording](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\]
