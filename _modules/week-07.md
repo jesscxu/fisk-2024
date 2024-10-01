@@ -11,7 +11,7 @@ Sept 23
 Sept 24
 : **Lab**{: .label .label-green }[Lab 5 - For Loops, Lists](https://edstem.org/us/courses/61483/lessons/118832){:target="_blank"}
   : Due: Sept 24
-: **HW**{: .label .label-purple }[HW 5 - For Loops, Lists](https://edstem.org/us/courses/61483/lessons/118822){:target="_blank"}
+: **HW**{: .label .label-purple }[HW 5 - For Loops](https://edstem.org/us/courses/61483/lessons/118822){:target="_blank"}
   : Due: Oct 2
 
 Sept 25

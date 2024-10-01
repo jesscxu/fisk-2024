@@ -9,10 +9,10 @@ Sept 30
   : Due: Oct 6
 
 Oct 1
-: **Lab**{: .label .label-green }[Lab 6 - Mutable Lists, 2D Lists](https://edstem.org/us/courses/61483/lessons/113384){:target="_blank"}
-  : Due: Sept 20
-: **HW**{: .label .label-purple }[HW 6 - Mutable Lists, 2D Lists](https://edstem.org/us/courses/61483/lessons/113377){:target="_blank"}
-  : Due: Sept 28
+: **Lab**{: .label .label-green }[Lab 6 - Mutable Lists, 2D Lists](https://edstem.org/us/courses/61483/lessons/120082){:target="_blank"}
+  : Due: Oct 1
+: **HW**{: .label .label-purple }[HW 6 - Lists](https://edstem.org/us/courses/61483/lessons/118830){:target="_blank"}
+  : Due: Oct 9
 
 Oct 2
 : **Lecture**{: .label .label-yellow }2D Lists (Images)
