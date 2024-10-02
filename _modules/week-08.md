@@ -16,7 +16,7 @@ Oct 1
 
 Oct 2
 : **Lecture**{: .label .label-yellow }2D Lists (Images)
-  : \[[slides](https://docs.google.com/presentation/d/1pErmo1Sd08GGKN-RAPhT32MtvWy9ql93u02lVIxt7Zw/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1oBETYNDhXxhI4acPSV2AzDOPKCh63ymL_b62qrjkQU8/edit?usp=sharing){:target="_blank"}\] \[[Tic Tac Toe](https://colab.research.google.com/drive/1BF4dHcgRLkviXv5G8mgsp3pzNxCCmjyF?usp=sharing){:target="_blank"}\] \[[colab](https://colab.research.google.com/drive/1TVla0QVxiY9iFdO7V3OuFZzrwBI8MabK?usp=sharing){:target="_blank"}\] \[[recording](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\]
+  : \[[slides](https://docs.google.com/presentation/d/1pErmo1Sd08GGKN-RAPhT32MtvWy9ql93u02lVIxt7Zw/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1oBETYNDhXxhI4acPSV2AzDOPKCh63ymL_b62qrjkQU8/edit?usp=sharing){:target="_blank"}\] \[[Tic Tac Toe](https://colab.research.google.com/drive/1BF4dHcgRLkviXv5G8mgsp3pzNxCCmjyF?usp=sharing){:target="_blank"}\] \[[colab](https://colab.research.google.com/drive/1TVla0QVxiY9iFdO7V3OuFZzrwBI8MabK?usp=sharing){:target="_blank"}\] \[[recording](https://youtu.be/oAiHIJyHI6A){:target="_blank"}\]
 
 Oct 4
 : **Lecture**{: .label .label-yellow }Style Guide
