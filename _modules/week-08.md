@@ -20,5 +20,5 @@ Oct 2
 
 Oct 4
 : **Lecture**{: .label .label-yellow }Style Guide
-  : \[[slides](https://docs.google.com/presentation/d/1K23XPmJBNbFptp-Hp10q5okEgol0UZ9GkzsmiDELeG4/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1IJjjUiPhEPHZesnVaEdN5yEBvxytVrZWZebsNjDpU4M/edit?usp=sharing){:target="_blank"}\]
+  : \[[slides](https://docs.google.com/presentation/d/1K23XPmJBNbFptp-Hp10q5okEgol0UZ9GkzsmiDELeG4/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1IJjjUiPhEPHZesnVaEdN5yEBvxytVrZWZebsNjDpU4M/edit?usp=sharing){:target="_blank"}\] \[[recording](https://youtu.be/VHOhs8aQo2k){:target="_blank"}\]
 : **Quiz**{: .label .label-blue }Quiz 5 - For Loops, Lists
