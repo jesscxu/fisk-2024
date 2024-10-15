@@ -4,14 +4,14 @@ title: Week 10
 
 Oct 14
 : **Lecture**{: .label .label-yellow }Sets
-  :  \[[slides](https://docs.google.com/presentation/d/1v0tDhPcUXOLDv5HzlZ4gbaMKcQlUHRB9rZWDqKHnuIM/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\] \[[recording](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\]
+  :  \[[slides](https://docs.google.com/presentation/d/1v0tDhPcUXOLDv5HzlZ4gbaMKcQlUHRB9rZWDqKHnuIM/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\] \[[recording](https://youtu.be/qR8nIo64BGo){:target="_blank"}\]
 : **Project 2**{: .label .label-purple }[Search Engine (pt. 1)](https://edstem.org/us/courses/61483/lessons/120765){:target="_blank"}
   : Due: Oct 21
 
 Oct 15
-: **Lab**{: .label .label-green }[Lab 7 - Sets, Dictionaries](https://edstem.org/us/courses/61483/lessons/113384){:target="_blank"}
+: **Lab**{: .label .label-green }[Lab 7 - Sets, Dictionaries](https://edstem.org/us/courses/61483/lessons/120798){:target="_blank"}
   : Due: Oct 15
-: **HW**{: .label .label-purple }[HW 8 - Sets, Dictionaries](https://edstem.org/us/courses/61483/lessons/113377){:target="_blank"}
+: **HW**{: .label .label-purple }[HW 8 - Sets, Dictionaries](https://edstem.org/us/courses/61483/lessons/120799){:target="_blank"}
   : Due: Oct 23
 
 Oct 16

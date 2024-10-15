@@ -18,5 +18,5 @@ Oct 9
 
 Oct 11
 : **Lecture**{: .label .label-yellow }Nested Dictionaries
-  :  \[[slides](https://docs.google.com/presentation/d/15zxnl2MRl29A8Hvf4SvOnZFYzQNqWfmNyNUYJtA2RVY/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1o5wgxri7nvm3jwbfu02K3XXIudSutgYUmQiPTDdyEA0/edit?usp=sharing){:target="_blank"}\] \[[recording](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\]
+  :  \[[slides](https://docs.google.com/presentation/d/15zxnl2MRl29A8Hvf4SvOnZFYzQNqWfmNyNUYJtA2RVY/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1o5wgxri7nvm3jwbfu02K3XXIudSutgYUmQiPTDdyEA0/edit?usp=sharing){:target="_blank"}\] \[[recording](https://youtu.be/Cf9TWJv99zA){:target="_blank"}\]
 : **Quiz**{: .label .label-blue }Quiz 6 - 2D Lists
