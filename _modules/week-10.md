@@ -16,7 +16,7 @@ Oct 15
 
 Oct 16
 : **Lecture**{: .label .label-yellow }Review (Dictionaries)
-  :  \[[slides](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\] \[[recording](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\] \[[Personality Quiz](https://colab.research.google.com/drive/1NpEY0FmqwSaZp1bxXOL-wuh5KboXrpSC?usp=sharing){:target="_blank"}\]
+  :  \[[slides](https://docs.google.com/presentation/d/1f_-xRKztkw8hPZh6h9nQHHCZ3U5Wu82DLBJNPQNSdxY/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1OLuBNu4GMm4-l_0VlrYmRpyHmH2btMYyEFsCzhASnsg/edit?usp=sharing){:target="_blank"}\] \[[recording](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\] \[[Personality Quiz](https://colab.research.google.com/drive/1NpEY0FmqwSaZp1bxXOL-wuh5KboXrpSC?usp=sharing){:target="_blank"}\]
 
 Oct 18
 : **Lecture**{: .label .label-yellow }Terminal
