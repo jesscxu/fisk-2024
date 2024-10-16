@@ -55,17 +55,15 @@ Your final grade will be calculated based on your exams, homeworks, projects, an
 
 | Grade | Range
 |:-------|:------|
-| A+ | 97 <= score |
-| A | 93 <= score < 97 |
-| A- | 90 <= score < 93 |
-| B+ | 87 <= score < 90 |
-| B | 83 <= score < 87 |
-| B- | 80 <= score < 83 |
-| C+ | 77 <= score < 80 |
-| C | 73 <= score < 77 |
-| C- | 70 <= score < 73 |
-| D | 60 <= score < 70 |
-| E | 50 <= score < 60 |
+| A | 90 <= score |
+| A- | 85 <= score < 90 |
+| B+ | 80 <= score < 85 |
+| B | 75 <= score < 80 |
+| B- | 70 <= score < 75 |
+| C+ | 65 <= score < 70 |
+| C | 60 <= score < 65 |
+| C- | 55 <= score < 60 |
+| D | 50 <= score < 55 |
 | F | score < 50 |
 
 ### Grades
@@ -89,7 +87,7 @@ These details are subject to change during the semester, however the current pla
 
 - 10 Homeworks - 1x per week, due Wednesday
 - 10 Quizzes - 1x per week on Friday, first 15 minutes of class
-- 2 Projects - spread throughout the semester, due Friday
+- 2 Projects - spread throughout the semester, due Sunday or Monday
 
 All assignments will be due at 11:59pm on their respective days
 
