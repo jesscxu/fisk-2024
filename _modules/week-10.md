@@ -20,5 +20,5 @@ Oct 16
 
 Oct 18
 : **Lecture**{: .label .label-yellow }Terminal
-  : \[[slides](https://docs.google.com/presentation/d/1CnR2RVKD4Ik-Ufo4zOTGMgUrakEaljI3B48SrGUTMAk/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1lcTa9xN5I_aq_0tEJErR0UtZh_XhLjFP8jz_360ABkc/edit?usp=sharing){:target="_blank"}\] \[[recording](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\]
+  : \[[slides](https://docs.google.com/presentation/d/1CnR2RVKD4Ik-Ufo4zOTGMgUrakEaljI3B48SrGUTMAk/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1lcTa9xN5I_aq_0tEJErR0UtZh_XhLjFP8jz_360ABkc/edit?usp=sharing){:target="_blank"}\] \[[recording](https://youtu.be/JjF8LGioiq4){:target="_blank"}\]
 : **Quiz**{: .label .label-blue }Quiz 7 - Sets, Dictionaries
