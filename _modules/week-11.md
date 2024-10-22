@@ -8,7 +8,7 @@ Oct 21
 
 Sept 17
 : **Lab**{: .label .label-green }[PRACTICE] Midterm 2 Exam
-  :  \[[SOLUTION](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\]
+  :  \[[SOLUTION](https://drive.google.com/file/d/1gSDFK24uGQX34hMAkNs3oi5jpB-qWRg-/view?usp=sharing){:target="_blank"}\]
 
 Sept 18
 : **EXAM**{: .label .label-yellow }Midterm 2 Exam
