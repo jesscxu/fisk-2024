@@ -12,7 +12,7 @@ Sept 17
 
 Sept 18
 : **EXAM**{: .label .label-yellow }Midterm 2 Exam
-  :  \[[SOLUTION](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\]
+  :  \[[SOLUTION](https://drive.google.com/file/d/1YAgoIgCUWWNccfzMolVvo5Cwtr50X_ys/view?usp=sharing){:target="_blank"}\]
 
 Sept 20
 : **Lecture**{: .label .label-yellow }Runtime Analysis
