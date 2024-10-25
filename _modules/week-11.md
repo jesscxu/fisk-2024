@@ -16,5 +16,5 @@ Sept 18
 
 Sept 20
 : **Lecture**{: .label .label-yellow }Runtime Analysis
-  : \[[slides](https://docs.google.com/presentation/d/1a4NZhTRuPWA65aGrIRhboGVmcjCzFsytarLCFHtQais/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1YsNRVOyOUxkKTTBnnUvxyfqkF07UZxH8aWXoVfnyrxk/edit?usp=sharing){:target="_blank"}\] \[[recording](https://youtu.be/xNms00Wl4N0){:target="_blank"}\]
+  : \[[slides](https://docs.google.com/presentation/d/1a4NZhTRuPWA65aGrIRhboGVmcjCzFsytarLCFHtQais/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1YsNRVOyOUxkKTTBnnUvxyfqkF07UZxH8aWXoVfnyrxk/edit?usp=sharing){:target="_blank"}\] \[[recording](https://youtu.be/V5DMyPGmK8c){:target="_blank"}\]
 : **Quiz**{: .label .label-blue } NO QUIZ this week!
