@@ -89,16 +89,16 @@ These details are subject to change during the semester, however the current pla
 - 10 Quizzes - 1x per week on Friday, first 15 minutes of class
 - 2 Projects - spread throughout the semester, due Sunday or Monday
 
-All assignments will be due at 11:59pm on their respective days
+All assignments will be due at 11:59pm on their respective days.
 
 ### Quizzes
 At the beginning of class on every Friday, there will be a 15-minute quiz on the material from the previous week. These will be done on EdStem, so bring your laptop to class.
 
 ### Exams
 This course will have 2 midterms and 1 final exam, spaced evenly across the semester. 
-- Exam 1 is on Wednesday, September 18th
-- Exam 2 is on Wednesday, October 23rd 
-- Exam 3 is the final exam
+- Midterm Exam 1 is on Wednesday, September 18th
+- Midterm Exam 2 is on Wednesday, October 23rd 
+- Final Exam is on Tuesday, December 3rd
 
 ### Cheating
 For all assignments in the course, you may discuss approaches to solving a problem or work in the same room on separate computers to individually solve a problem, but **you may *not* copy and paste code or substantially copy ideas from another student**. It can be tempting to cheat. Know that I will be using a plagiarism detector. The first time an assignment is found to be plagiarized, the assignment grade will be zero-ed out for all students with matching code. The second time, all students involved will have their final course grade decreased by 1 letter grade (B going to a C, A- does to a B-, etc.). The third time, all students involved will be referred to the Dean's office for academic dishonesty. 
