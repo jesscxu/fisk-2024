@@ -17,6 +17,6 @@ Oct 30
   :  \[[slides](https://docs.google.com/presentation/d/1dU14vxYSHIoPJZI_QkzgTrYiUJNGLFwHdlSK7uiSK6k/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1PVny9NduEVFSWp6vnQgGGHtUSudy9GEPkObdXPOHAw8/edit?usp=sharing){:target="_blank"}\] \[[recording](https://youtu.be/WcK8Pa_U3uw){:target="_blank"}\]
 
 Nov 1
-: **Lecture**{: .label .label-yellow }Scope & Pass by Reference
-  : \[[slides](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\] \[[colab](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\] \[[recording](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\]
+: **Lecture**{: .label .label-yellow }Scope & Pass by Value/Reference
+  : \[[slides](https://docs.google.com/presentation/d/1T9KcM3z8ZDToGJxqVX-Playfp74r5CuhMer2Cf6h66Q/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1Pe3NFPrLKh484Pt7eRKPqJzMOfyqO1lBR-jkIkoskLM/edit?usp=sharing){:target="_blank"}\] \[[recording](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\]
 : **Quiz**{: .label .label-blue }Quiz 8 - Big O
