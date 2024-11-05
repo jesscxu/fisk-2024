@@ -10,7 +10,7 @@ Nov 4
 
 Nov 5
 : **Lab**{: .label .label-green }Interview Prep Session
-  :  \[[slides](https://docs.google.com/presentation/d/1bI36146vj8pBSfnlMNqEc2FTZuCOgVTOAS1vfdLsD9s/edit?usp=sharing){:target="_blank"}\]
+  :  \[[slides](https://docs.google.com/presentation/d/1JAtlA1C8lp_dTSuImm9dzbNpB6scamXpqOSueA9-E_s/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1tqvHpVEPMwMyo57Sm4MlTkAuYC6pD5n_7pziQ6NbNVs/edit?usp=sharing){:target="_blank"}\]
 
 
 Nov 6
