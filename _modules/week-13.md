@@ -4,7 +4,7 @@ title: Week 13
 
 Nov 4
 : **Lecture**{: .label .label-yellow }Tech Talks!
-  :  \[[slides](https://docs.google.com/presentation/d/1lGFR0w_KZHADqEsotI0vQeUuIsjycW_8foFlE6_swVw/edit?usp=sharing){:target="_blank"}\] \[[recording](https://youtu.be/b0XZQdPRGFk){:target="_blank"}\]
+  :  \[[slides](https://docs.google.com/presentation/d/1lGFR0w_KZHADqEsotI0vQeUuIsjycW_8foFlE6_swVw/edit?usp=sharing){:target="_blank"}\] \[[recording](https://youtu.be/XBtN6RW-nCw){:target="_blank"}\]
 : **HW**{: .label .label-purple }[HW 10 - Tech Talk Reflection](https://edstem.org/us/courses/61483/lessons/122243){:target="_blank"}
   : Due: Nov 8
 
