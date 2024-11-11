@@ -4,8 +4,8 @@ title: Week 14
 
 Nov 11
 : **Lecture**{: .label .label-yellow }Classes
-  :  \[[slides](https://docs.google.com/presentation/d/1yDZ60s0VJuSCZRIPQJCpMez4nO_lKiMjyPCErKXjoRg/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\] \[[recording](https://youtu.be/qR8nIo64BGo){:target="_blank"}\]
-: **Project 2**{: .label .label-purple }[Search Engine (pt. 3)](https://edstem.org/us/courses/61483/lessons/120765){:target="_blank"}
+  :  \[[slides](https://docs.google.com/presentation/d/1yDZ60s0VJuSCZRIPQJCpMez4nO_lKiMjyPCErKXjoRg/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\] \[[recording](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\]
+: **Project 2**{: .label .label-purple }[Search Engine (pt. 3)](https://edstem.org/us/courses/61483/lessons/120767){:target="_blank"}
   : Due: Nov 20
 
 <!-- Oct 15
