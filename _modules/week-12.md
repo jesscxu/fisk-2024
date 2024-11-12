@@ -18,5 +18,5 @@ Oct 30
 
 Nov 1
 : **Lecture**{: .label .label-yellow }Scope & Pass by Value/Reference
-  : \[[slides](https://docs.google.com/presentation/d/1T9KcM3z8ZDToGJxqVX-Playfp74r5CuhMer2Cf6h66Q/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1Pe3NFPrLKh484Pt7eRKPqJzMOfyqO1lBR-jkIkoskLM/edit?usp=sharing){:target="_blank"}\] \[[recording](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\]
+  : \[[slides](https://docs.google.com/presentation/d/1T9KcM3z8ZDToGJxqVX-Playfp74r5CuhMer2Cf6h66Q/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1Pe3NFPrLKh484Pt7eRKPqJzMOfyqO1lBR-jkIkoskLM/edit?usp=sharing){:target="_blank"}\] \[[recording](https://youtu.be/lD0o5z-9hyw){:target="_blank"}\]
 : **Quiz**{: .label .label-blue }Quiz 8 - Big O
