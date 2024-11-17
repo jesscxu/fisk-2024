@@ -20,5 +20,5 @@ Nov 13
 
 Nov 15
 : **Lecture**{: .label .label-yellow }Sorting
-  : \[[slides](https://docs.google.com/presentation/d/1dwOeWO_IYunXRVE_lOYMdsIN2-LCR5NmfyiC-V0nc4Q/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1KQcwd90HR6C8VSMs_lh0MgxCAtGW7WCFGveEONcLnUw/edit?usp=sharing){:target="_blank"}\] \[[recording](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\]
+  : \[[slides](https://docs.google.com/presentation/d/1dwOeWO_IYunXRVE_lOYMdsIN2-LCR5NmfyiC-V0nc4Q/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/1KQcwd90HR6C8VSMs_lh0MgxCAtGW7WCFGveEONcLnUw/edit?usp=sharing){:target="_blank"}\] \[[recording](https://youtu.be/zUl-UzrxFRs){:target="_blank"}\]
 : **Quiz**{: .label .label-blue }Quiz 9 - Classes

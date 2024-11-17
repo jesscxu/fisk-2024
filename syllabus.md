@@ -64,7 +64,7 @@ Your final grade will be calculated based on your exams, homeworks, projects, an
 | C | 60 <= score < 65 |
 | C- | 55 <= score < 60 |
 | D | 50 <= score < 55 |
-| F | score < 50 |
+| E | score < 50 |
 
 ### Grades
 There will be two grading systems, both very similar, which will be applied to your work throughout the course. Your final grade will be the greater of the two scores. The intention here is to provide a slight benefit to those students who performed really well on projects but may have had slightly lower exam scores or vice versa. The two weighting systems are:
