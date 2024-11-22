@@ -21,4 +21,4 @@ Nov 20
 Nov 22
 : **Lecture**{: .label .label-yellow }Version Control
   : \[[slides](https://docs.google.com/presentation/d/1MaWSnq9ZBAPmeyhF3PpZn26b7wAJkN_qnNFbRZ9uxTk/edit?usp=sharing){:target="_blank"}\] \[[notes](https://docs.google.com/document/d/10kMsymv-qEVgCBoWOirIEnmBQQiyQdFgToTqbxhjuxU/edit?usp=sharing){:target="_blank"}\] \[[recording](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\]
-: **Quiz**{: .label .label-blue }NO QUIZ this week!
+: **Quiz**{: .label .label-blue }NO QUIZ this week!!!
