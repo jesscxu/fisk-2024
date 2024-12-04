@@ -8,4 +8,4 @@ Dec 2
 
 Dec 3
 : **EXAM**{: .label .label-yellow } Final Exam
-  :  \[[EXAM](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\] \[[SOLUTIONS](https://docs.google.com/document/d/1XIpgIwvZjG4bXGgeAcSaYmJvrVk_f1_z-sAhTgoqWdY/edit?usp=sharing){:target="_blank"}\]
+  :  \[[SOLUTIONS](https://drive.google.com/file/d/1xc4aAqiZ-jGvZq0MAU9MbqS6WEa-xNtu/view?usp=sharing){:target="_blank"}\]
